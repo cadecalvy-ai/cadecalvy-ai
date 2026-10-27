@@ -27,7 +27,7 @@ Python · SQL · JavaScript · HTML/CSS · Git · APIs · AI/LLMs (Claude)
 | **[Advisor Launch ; Numbers Site](https://why-advisor-launch.netlify.app/)** | External-facing: rebuilds a scrubbed, shareable stats site from cohort/production spreadsheets — attendance tracking, premium/AUM charts, days-to-first-case metrics | Python, HTML/CSS/JS |
 | **Advisor Launch ; Internal Ops Console** *(private, not linked)* | Internal companion to the Numbers Site: live attendee roster with real pods/uplines, attendance and reward-threshold tracking, AI-summarized call notes, and one-click recognition/reminder email drafts for staff | Python, JavaScript |
 | **Advisor Locator (UAV)** | Single-file, offline-friendly map tool for finding and routing to advisors by state/city/ZIP, with fly/drive modes and printable itineraries | JavaScript, Leaflet |
-| **[Tax Scan](https://github.com/cadecalvy-ai/tax-scan)** | Drop in client tax returns (text PDFs or scans) and get an AUM fit score plus annuity and life-insurance grades, each traced to the 1040 line or W-2/1099 box it came from. Runs locally for client privacy; the demo uses fictional clients | Python, Tesseract OCR, Flask, anime.js |
+| **[Tax Scan](https://tax-scan.netlify.app/)** *(code private)* | Drop in client tax returns (text PDFs or scans) and get an AUM fit score plus annuity and life-insurance grades, each traced to the 1040 line or W-2/1099 box it came from. Cross-checks every source document against the return (a co-op payment missing from Schedule F, a W-2 left off line 1a) and exports a printable conversation brief. Runs locally for client privacy; the demo uses fictional clients | Python, Tesseract OCR, Flask, anime.js |
 
 ### Personal projects
 
