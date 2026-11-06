@@ -34,6 +34,7 @@ Python · SQL · JavaScript · HTML/CSS · Git · APIs · AI/LLMs (Claude)
 | Project | What it does | Tech |
 |---|---|---|
 | **[SK Box League](https://sk-league.netlify.app/)** | Self-hosted site for our friends' fantasy football league; live weekly matchups, start/sit projections (Sleeper + ESPN), weather and injury context per game, and the league's full multi-season history | JavaScript, HTML/CSS |
+| **[The Lawn Wrangler](https://thelawnwranger.netlify.app)** *(code private)* | Site for a friend's lawn care and Christmas light business in Salina, KS. Type an address for an instant rough estimate: it measures the lot from city records, detects concrete in aerial photos, and prices mowing and lights | JavaScript, HTML/CSS, Leaflet, ArcGIS REST, Netlify |
 
 **Currently learning:** FastAPI, cloud data hosting
 
