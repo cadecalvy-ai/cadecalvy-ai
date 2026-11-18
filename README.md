@@ -2,7 +2,7 @@ Hi, I'm Cade. VP of Marketing who is learning coding and automation.
 
 By day I work with advisors and marketers at Gradient Financial. I also build the tools that keep the team running, mostly by automating repetitive work so people can focus on what matters.
 
-Arden Hills, MN · [LinkedIn](#)
+Arden Hills, MN · [LinkedIn](https://www.linkedin.com/in/cade-calvert-793993105/)
 
 ### What I build
 - **Automation** — scripts and workflows that replace manual, repetitive ops tasks
@@ -27,7 +27,7 @@ Python · SQL · JavaScript · HTML/CSS · Git · APIs · AI/LLMs (Claude)
 | **[Advisor Launch ; Numbers Site](https://why-advisor-launch.netlify.app/)** | External-facing: rebuilds a scrubbed, shareable stats site from cohort/production spreadsheets — attendance tracking, premium/AUM charts, days-to-first-case metrics | Python, HTML/CSS/JS |
 | **Advisor Launch ; Internal Ops Console** *(private, not linked)* | Internal companion to the Numbers Site: live attendee roster with real pods/uplines, attendance and reward-threshold tracking, AI-summarized call notes, and one-click recognition/reminder email drafts for staff | Python, JavaScript |
 | **Advisor Locator (UAV)** | Single-file, offline-friendly map tool for finding and routing to advisors by state/city/ZIP, with fly/drive modes and printable itineraries | JavaScript, Leaflet |
-| **[Tax Scan](https://tax-scan.netlify.app/)** *(code private)* | Drop in client tax returns (text PDFs or scans) and get an AUM fit score plus annuity and life-insurance grades, each traced to the 1040 line or W-2/1099 box it came from. Cross-checks every source document against the return (a co-op payment missing from Schedule F, a W-2 left off line 1a) and exports a printable conversation brief. Runs locally for client privacy; the demo uses fictional clients | Python, Tesseract OCR, Flask, anime.js |
+| **[Tax Scan](https://tax-scan.netlify.app/)** · [code](https://github.com/cadecalvy-ai/tax-scan) | Drop in client tax returns (text PDFs or scans) and get an AUM fit score plus annuity and life-insurance grades, each traced to the 1040 line or W-2/1099 box it came from. Cross-checks every source document against the return (a co-op payment missing from Schedule F, a W-2 left off line 1a) and exports a printable conversation brief. Runs locally for client privacy; the demo uses fictional clients. Comes with a [24-second launch film](https://tax-scan.netlify.app/film.html): one HTML canvas where every frame is a function of time, rendered frame by frame and encoded to MP4 | Python, Tesseract OCR, Flask, anime.js, HTML canvas, Playwright, FFmpeg |
 
 ### Personal projects
 
@@ -39,5 +39,5 @@ Python · SQL · JavaScript · HTML/CSS · Git · APIs · AI/LLMs (Claude)
 
 **Currently learning:** FastAPI, cloud data hosting
 
-Want to talk automation, data, or marketing ops? Reach out on [LinkedIn](#).
+Want to talk automation, data, or marketing ops? Reach out on [LinkedIn](https://www.linkedin.com/in/cade-calvert-793993105/).
 
