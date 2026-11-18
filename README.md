@@ -36,6 +36,7 @@ Python · SQL · JavaScript · HTML/CSS · Git · APIs · AI/LLMs (Claude)
 | **[SK Box League](https://sk-league.netlify.app/)** | Self-hosted site for our friends' fantasy football league; live weekly matchups, start/sit projections (Sleeper + ESPN), weather and injury context per game, and the league's full multi-season history | JavaScript, HTML/CSS |
 | **[The Lawn Wrangler](https://thelawnwrangler.netlify.app)** *(code private)* | Site for a friend's lawn care and Christmas light business in Salina, KS. Type an address for an instant rough estimate: it measures the lot from city records, detects concrete in aerial photos, and prices mowing and lights | JavaScript, HTML/CSS, Leaflet, ArcGIS REST, Netlify |
 | **[Portfolio Video](https://github.com/cadecalvy-ai/portfolio-video)** | A 20-second animated reel of this portfolio, built only from its own material: this README, my avatar, and screenshots of the project sites. One HTML page where every element is a function of time, rendered frame by frame and encoded to MP4 | HTML/CSS, JavaScript, Puppeteer, FFmpeg |
+| **Speak 2 Gainz (S2G)** *(private, not linked)* | Voice-first workout log. After the gym, tap a mic and talk through the session; it turns the ramble into sets, reps and weights, asks you to approve anything it had to guess, and gives the numbers to beat on each lift next time | JavaScript, HTML/CSS, Claude (speech-to-text and parsing) |
 
 **Currently learning:** FastAPI, cloud data hosting
 
